@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+SQLAlchemy==2.0.25
+requests==2.31.0
+pandas==2.2.2
