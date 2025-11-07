@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AlphaVantage ETL Project
 
 This project demonstrates a small-but-complete data engineering workflow in Python:
